@@ -1,7 +1,7 @@
 ---
 title: "Does Children's Developing Understanding of Linguistic Register Impact Their Social Preferences?"
 collection: publications
-permalink: /publication/2025-03-28-linguistic-register-preferences
+permalink: /publications/2025-03-28-linguistic-register-preferences
 excerpt: 'People use different communication patterns based on the context and who they are addressing. These differences, known as linguistic register, are the focus of our work here, where we examine how children identify registers and how their understanding influences which types of speakers they prefer.'
 date: 2025-03-28
 venue: 'Social Development'
