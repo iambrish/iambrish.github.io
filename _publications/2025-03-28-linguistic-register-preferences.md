@@ -6,10 +6,10 @@ excerpt: 'People use different communication patterns based on the context and w
 date: 2025-03-28
 venue: 'Social Development'
 paperurl: 'http://iambrish.github.io/files/ambrishetal.2025.pdf'
-citation: 'Ambrish, I., Sodhi, S., & Liberman, Z. (2025). Does Children’s Developing Understanding of Linguistic Register Impact Their Social Preferences? <i>Social Development</i>, <i>34</i>(2), e12797. https://doi.org/10.1111/sode.12797'
+citation: 'Ambrish, I., Sodhi, S., & Liberman, Z. (2025). Does Children’s Developing Understanding of Linguistic Register Impact Their Social Preferences? <i>Social Development</i>, <i>34</i>(2), e12797. https://doi.org/10.1111/sode.12797.'
 ---
 People use different communication patterns based on the context and who they are addressing. These differences, known as linguistic register, are the focus of our work here, where we examine how children identify registers and how their understanding influences which types of speakers they prefer.
 
 [Download paper here](http://iambrish.github.io/files/ambrishetal.2025.pdf)
 
-Recommended citation: Ambrish, I., Sodhi, S., & Liberman, Z. (2025). Does Children’s Developing Understanding of Linguistic Register Impact Their Social Preferences? <i>Social Development</i>, <i>34</i>(2), e12797. https://doi.org/10.1111/sode.12797
+Recommended citation: Ambrish, I., Sodhi, S., & Liberman, Z. (2025). Does Children’s Developing Understanding of Linguistic Register Impact Their Social Preferences? <i>Social Development</i>, <i>34</i>(2), e12797. https://doi.org/10.1111/sode.12797.
