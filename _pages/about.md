@@ -8,6 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-I am a researcher who is passionate about _____.
+I am a researcher who is passionate about how we learn language. _____.
 
-I am currently a PhD student working under Dr. Ariel Starr at the Language, Cognition, and Development lab at the University of Washington. _____.
+I am currently a PhD candidate working under Dr. Ariel Starr at the Language, Cognition, and Development Lab at the University of Washington. _____.
