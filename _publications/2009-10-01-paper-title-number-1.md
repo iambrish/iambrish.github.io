@@ -1,15 +1,15 @@
 ---
-title: "Paper Title Number 1"
+title: "Does Children's Developing Understanding of Linguistic Register Impact Their Social Preferences?"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+excerpt: 'People use different communication patterns based on the context and who they are addressing. These differences, known as linguistic register, are the focus of our work here, where we examine how children identify registers and how their understanding influences which types of speakers they prefer.'
+date: 2025-03-28
+venue: 'Social Development'
+paperurl: 'http://academicpages.github.io/files/ambrishetal.2025.pdf'
+citation: 'Ambrish, I., Sodhi, S., & Liberman, Z. (2025). Does Children’s Developing Understanding of Linguistic Register Impact Their Social Preferences? <i>Social Development</i>, <i>34</i>(2), e12797. https://doi.org/10.1111/sode.12797'
 ---
 This paper is about the number 1. The number 2 is left for future work.
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+[Download paper here](http://academicpages.github.io/files/ambrishetal.2025.pdf)
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+Recommended citation: Ambrish, I., Sodhi, S., & Liberman, Z. (2025). Does Children’s Developing Understanding of Linguistic Register Impact Their Social Preferences? <i>Social Development</i>, <i>34</i>(2), e12797. https://doi.org/10.1111/sode.12797
