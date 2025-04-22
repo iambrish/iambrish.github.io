@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Ishaan Ambrish"
 title_separator          : "-"
 name                     : &name "Ishaan Ambrish"
-description              : &description "Developmental Psychology PhD student at the University of Washington"
+description              : &description "Developmental Psychology PhD Candidate at the University of Washington. Researcher at the Language, Cognition, & Development Lab."
 url                      : https://iambrish.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "iambrish.github.io"
@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "Ishaan Ambrish (he/they)"
   avatar           : "profile.png"
-  bio              : "Developmental Psychology PhD Student at the University of Washington. Researcher at the Language, Cognition, & Development Lab."
+  bio              : "Developmental Psychology PhD Candidate at the University of Washington. Researcher at the Language, Cognition, & Development Lab."
   location         : "Seattle, Washington"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  googlescholar    : "https://scholar.google.com/citations?user=tfGG7r8AAAAJ&hl=en&oi=ao"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : #"replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :
