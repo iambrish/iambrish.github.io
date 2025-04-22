@@ -8,7 +8,7 @@ venue: 'Social Development'
 paperurl: 'http://academicpages.github.io/files/ambrishetal.2025.pdf'
 citation: 'Ambrish, I., Sodhi, S., & Liberman, Z. (2025). Does Children’s Developing Understanding of Linguistic Register Impact Their Social Preferences? <i>Social Development</i>, <i>34</i>(2), e12797. https://doi.org/10.1111/sode.12797'
 ---
-This paper is about the number 1. The number 2 is left for future work.
+People use different communication patterns based on the context and who they are addressing. These differences, known as linguistic register, are the focus of our work here, where we examine how children identify registers and how their understanding influences which types of speakers they prefer.
 
 [Download paper here](http://academicpages.github.io/files/ambrishetal.2025.pdf)
 
